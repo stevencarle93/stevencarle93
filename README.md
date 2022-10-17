@@ -23,7 +23,7 @@
 
 
 
-- 📫 How to reach me **dressg7@gmail.com**
+- 📫 How to reach me **stevencarle@hotmail.com**
 
 
 
