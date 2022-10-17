@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Php, Node.js, Python, DataBases**
 
-- 👯 I was part of an incredible software bootcamp called 4Geeks Academy where I had the opportunity to develope a web app with some very good colleagues. Please check it out here: [Kurius e-commerce Chocolates](https://github.com/ItsMeRichArt/kuriuschocolate-ecommerce-webpage)
+- 👯 I was part of an incredible software bootcamp called 4Geeks Academy where I had the opportunity to develop a web app with some very good colleagues. Please check it out here: [Kurius e-commerce Chocolates](https://github.com/ItsMeRichArt/kuriuschocolate-ecommerce-webpage)
 
 - 🤝 I’m looking to help with **Any project you have!**
 
