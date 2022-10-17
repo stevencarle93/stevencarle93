@@ -44,9 +44,9 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/stvencarle93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stevencarle93" height="30" width="40" /></a>
+<a href="https://twitter.com/stevencarle93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stevencarle93" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/steven-carvajal-lenis-11530173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-carvajal-lenis-11530173" height="30" width="40" /></a>
-<a href="https://discord.gg/Maybe?#0979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="stevencarle93#2050" height="30" width="40" /></a>
+<a href="https://discord.gg/stevencarle93#2050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="stevencarle93#2050" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
