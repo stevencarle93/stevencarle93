@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steven Carvajal Lenis</h1>
 <h2 align="center">Full Stack Developer</h2>
-<h3 align="center">A passionate Frontend and Backend developer from Cali - Colombia</h3>
+<h3 align="center">A passionate Frontend and Backend developer from Cali - Colombia but currently living in Tampa, FL, USA</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevencarle93&&title=Repositories,Commits,PullRequest,Followers&no-bg=true&margin-w=15&theme=juicyfresh" alt="stevencarle93" /></a>
 
