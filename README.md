@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Php, Node.js, Python, DataBases**
 
-- 👯 I’m looking to collaborate on [Kurius e-commerce Chocolates and Hey! Tickets](https://github.com/ItsMeRichArt/kuriuschocolate-ecommerce-webpage)
+- 👯 I was part of an incredible software bootcamp called 4Geeks Academy where I had the opportunity to develope a web app with some very good colleagues. Please check it out here: [Kurius e-commerce Chocolates](https://github.com/ItsMeRichArt/kuriuschocolate-ecommerce-webpage)
 
 - 🤝 I’m looking to help with **Any project you have!**
 
@@ -23,7 +23,7 @@
 
 
 
-- 📫 How to reach me **stevencarle@hotmail.com**
+- 📫 You can reach me out at: **stevencarle@hotmail.com**
 
 
 
@@ -37,8 +37,7 @@
 <ul> 
   <li>Tech lover | </li>
   <li>Always learning | </li>
-  <li>Water > Coffee | </li>
-  <li>Music > All! Specially Salsa Music | </li>
+  <li>I am a professional pianist! Specialized in Salsa Music | </li>
   <li>Sports lover. Specially Soccer and Basketball | </li>
 <ul/>
   
