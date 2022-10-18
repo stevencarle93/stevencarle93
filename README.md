@@ -2,7 +2,7 @@
 <h2 align="center">Full Stack Developer</h2>
 <h3 align="center">A passionate Frontend and Backend developer from Cali - Colombia but currently living in Tampa, FL, USA</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevencarle93&&title=Repositories,Commits,PullRequest,Followers&no-bg=true&margin-w=15&theme=juicyfresh" alt="stevencarle93" /></a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevencarle93&&title=Repositories,Commits,PullRequest&no-bg=true&margin-w=15&theme=juicyfresh" alt="stevencarle93" /></a>
 
 
 - 🔭 I’m currently working on **My own Portfolio!**
@@ -32,14 +32,8 @@
 - 💬 Portuguese - C2.
 
 
-- ⚡ Fun fact: 
+- ⚡ Fun facts: Tech lover  |  Always learning  |  I am a professional pianist! Specialized in Salsa Music  |  Sports lover. Specially Soccer and Basketball |
 
-<ul> 
-  <li>Tech lover | </li>
-  <li>Always learning | </li>
-  <li>I am a professional pianist! Specialized in Salsa Music | </li>
-  <li>Sports lover. Specially Soccer and Basketball | </li>
-<ul/>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
