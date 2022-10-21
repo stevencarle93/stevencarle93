@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React, Javascript, API's**
 
-- 📄 CV English: [Click Here!👨‍💻](https://www.dropbox.com/s/eetbvl1bxmt24gb/CV%20%28English%20Version%29%20-%20STEVEN%20CARVAJAL%20LENIS%20%28Remote%20-%20Colombia%29.pdf?dl=0)
+- 📄 CV in English: [Click Here!👨‍💻](https://www.dropbox.com/s/eetbvl1bxmt24gb/CV%20%28English%20Version%29%20-%20STEVEN%20CARVAJAL%20LENIS%20%28Remote%20-%20Colombia%29.pdf?dl=0)
 
 
 
